@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Apple](https://img.shields.io/badge/-Apple-green?style=flat&logo=Apple&logoColor=white&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
+[![Android](https://img.shields.io/badge/-Android-green?style=flat&logo=Android&logoColor=yellow&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
+[![Flutter](https://img.shields.io/badge/-Flutter-green?style=flat&logo=Flutter&logoColor=blue&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
 
 
 Here are some ideas to get you started:
@@ -22,16 +25,23 @@ Here are some ideas to get you started:
 - ⚡ My Blog: ...
 
   [Rookie`Blog](http://rookie.live/)
+  
+  
+  
+  ### 👀 Active Repo
+<br />
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rookie-liu&repo=davinci&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rookie-liu&repo=metabase&theme=radical" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Rookie-liu&theme=dark)
+### 🙈 statistics
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rookie-liu&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Rookie-liu's GitHub Stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-liu&theme=radical&layout=compact&hide=glsl,python" />
+</p>
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-liu&theme=dark)
 
 
-
-
-[![Apple](https://img.shields.io/badge/-Apple-green?style=flat&logo=Apple&logoColor=white&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
-[![Android](https://img.shields.io/badge/-Android-green?style=flat&logo=Android&logoColor=white&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
-[![Flutter](https://img.shields.io/badge/-Flutter-green?style=flat&logo=Flutter&logoColor=white&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
 
