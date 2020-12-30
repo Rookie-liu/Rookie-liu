@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=Rookie-liu)
 
 
 Here are some ideas to get you started:
@@ -23,6 +22,11 @@ Here are some ideas to get you started:
 - ⚡ My Blog: ...
 
   [Rookie`Blog](http://rookie.live/)
+
+![](https://github-readme-stats.vercel.app/api?username=Rookie-liu&theme=dark)
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-liu&theme=dark)
 
 
 
