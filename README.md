@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Android](https://img.shields.io/badge/-Android-green?style=flat&logo=Android&logoColor=white&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
 
-[![Flutter](https://img.shields.io/badge/-Flutter-green?style=flat&logo=Flutter&logoColor=white&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
+[![iOS](https://img.shields.io/badge/-iOS-green?style=flat&logo=iOS&logoColor=white&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
 
 [![Flutter](https://img.shields.io/badge/-Flutter-green?style=flat&logo=Flutter&logoColor=white&link=https://github.com/Rookie-liu)](https://github.com/Rookie-liu)
 
