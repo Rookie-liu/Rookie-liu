@@ -28,8 +28,8 @@ Here are some ideas to get you started:
   
 
 <p>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rookie-liu&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Rookie-liu's GitHub Stats" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-liu&theme=radical&layout=compact&hide=glsl,python" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rookie-liu&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Rookie-liu's GitHub Stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-liu&theme=radical&layout=compact&hide=glsl,python" />
 </p>
 
 
