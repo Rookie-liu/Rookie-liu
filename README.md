@@ -5,26 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-
-  lang
   
 - 🌱 I’m currently learning ...
 
   Vue
   
-- 👯 I’m looking to collaborate on ...
-
-  The front project  
   
 - 💬 Ask me about ...
 
   [My resume](https://www.zybuluo.com/Rookie/note/826624)
   
-- 📫 How to reach me: ...
 
-  In my resume
-  
 - 😄 Pronouns: ...
 
   Rookie
