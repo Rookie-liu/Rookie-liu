@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
   
   
-  ### 👀 Active Repo
+### 👀 Active Repo
 <br />
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rookie-liu&repo=davinci&theme=radical" />
