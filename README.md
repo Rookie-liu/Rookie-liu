@@ -26,16 +26,7 @@ Here are some ideas to get you started:
 
   [Rookie`Blog](http://rookie.live/)
   
-  
-  
-### 👀 Active Repo
-<br />
-<p>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rookie-liu&repo=davinci&theme=radical" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rookie-liu&repo=metabase&theme=radical" />
-</p>
 
-### 🙈 statistics
 <p>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rookie-liu&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Rookie-liu's GitHub Stats" />
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-liu&theme=radical&layout=compact&hide=glsl,python" />
